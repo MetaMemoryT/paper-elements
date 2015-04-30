@@ -25,7 +25,7 @@
     "paper-header-panel": "PolymerElements/paper-header-panel#^0.8.0",
     "paper-item": "PolymerElements/paper-item#^0.8.0",
     "paper-menu": "PolymerElements/paper-menu#^0.8.0",
-    "paper-button": "PolymerElements/paper-button#^0.8.0"
+    "paper-button": "PolymerElements/paper-button#^0.8.0",
     "paper-radio-button": "PolymerElements/paper-radio-button#^0.8.0",
     "paper-ripple": "PolymerElements/paper-ripple#^0.8.0",
     "paper-styles": "PolymerElements/paper-styles#^0.8.0",
